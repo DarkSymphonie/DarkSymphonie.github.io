@@ -1,13 +1,13 @@
 title: Joshua Alcantara
 description: CyberSecurity Professional
-site_title: '@abhn - Abhishek Nagekar'
+site_title: '@DarkSymphonie - Joshua Alcantara'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
+github_username: DarkSymphonie
 blog_url: https://www.nagekar.com
 email: abhishek@nagekar.com
 keybase_username: abhn
