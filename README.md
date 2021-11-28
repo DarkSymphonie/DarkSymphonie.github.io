@@ -1,4 +1,0 @@
-# DarkSymphonie.github.io
-
-
-hey
