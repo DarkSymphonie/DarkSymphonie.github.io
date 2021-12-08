@@ -24,23 +24,23 @@ function blog_posts() {
     let posts = [
         {
             url: 'https://www.nagekar.com/2017/02/trip-to-bramhatal-uttarakhand.html',
-            title: 'Trek To Bramhatal (Uttarakhand)',
+            title: 'Hello world, Welcome to my blog',
         },
         {
             url: 'https://www.nagekar.com/2017/08/privacy.html',
-            title: 'Privacy - How I Converted',
+            title: ' My Homelab 2021',
         },
         {
             url: 'https://www.nagekar.com/2018/01/jagriti-yatra.html',
-            title: 'Jagriti Yatra 2017',
+            title: 'Need to be filled',
         },
         {
             url: 'https://www.nagekar.com/2017/08/private-cloud-part-2.html',
-            title: 'Private Cloud Part 2 | Encrypted Storage With NextCloud',
+            title: 'Need to be done',
         },
         {
             url: 'https://www.nagekar.com/2018/07/eli5-how-https-works.html',
-            title: 'ELI5 - How HTTPS Works',
+            title: 'Need to be done',
         },
     ];
 
