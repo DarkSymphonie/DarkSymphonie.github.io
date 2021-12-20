@@ -12,9 +12,8 @@ let render_projects = (slug) => {
     let projects_obj = [
         {
             image: 'assets/images/ep1.jpg',
-            link: 'https://github.com/DarkSymphonie/MalwareTrafficAnalysis/blob/main/PCAP%20Analysis/Decemeber%2010%202021',
+            link: 'https://darksymphonie.wixsite.com/darksym/post/grow-your-blog-community',
             title: 'Malware Traffic',
-            demo: 'https://darksymphonie.wixsite.com/darksym/post/grow-your-blog-community',
             technologies: ['Wireshark', 'Linux'],
             description: "Using Wireshark to identify malicious traffic.",
             categories: ['featured', 'Malware Traffic']
