@@ -11,7 +11,7 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/ep1.jpg',
+            image: 'assets/images/EP1SITE.jpg',
             link: 'https://darksymphonie.wixsite.com/darksym/post/grow-your-blog-community',
             title: 'Malware Traffic',
             technologies: ['Wireshark', 'Linux'],
