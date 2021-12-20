@@ -64,11 +64,6 @@ function blog_posts() {
                 <h3><a href="${post.url}">${post.title}</a></h3>            
 
             </div>
-    
-            <div class="blog-goto-link">
-                <img class="blog-arrow" src="/assets/images/right-open-mini.svg"/>
-            </div>
-        </div>
         `;
 
         post_html.push(post_template);
@@ -76,7 +71,7 @@ function blog_posts() {
 
     // for the more posts link
     let post_template = `
-    <div class="blog-post more-blogs" onclick="blog_link_click('https://www.nagekar.com');">
+    <div class="blog-post more-blogs" onclick="blog_link_click('https://darksymphonie.wixsite.com/darksym');">
 
         <div class="blog-link">
 
