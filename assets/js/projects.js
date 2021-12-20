@@ -16,7 +16,7 @@ let render_projects = (slug) => {
             title: 'Malware Traffic',
             technologies: ['Wireshark', 'Linux'],
             description: "Using Wireshark to identify malicious traffic.",
-            categories: ['featured', 'Malware Traffic']
+            categories: ['featured', 'Malware Traffic', 'Security']
        
         },
     ]
