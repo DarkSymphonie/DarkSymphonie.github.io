@@ -23,24 +23,24 @@ function blog_posts() {
     // keeping it static, can be fetched from a blog dynamically as well
     let posts = [
         {
-            url: 'https://www.nagekar.com/2017/02/trip-to-bramhatal-uttarakhand.html',
-            title: 'Hello world, Welcome to my blog',
+            url: 'https://darksymphonie.wixsite.com/darksym/post/manage-your-blog-from-your-live-site',
+            title: 'Print("Hello World")',
         },
         {
-            url: 'https://www.nagekar.com/2017/08/privacy.html',
-            title: ' My Homelab 2021',
+            url: 'https://darksymphonie.wixsite.com/darksym/post/design-a-stunning-blog',
+            title: ' Home Lab Setup 2021',
         },
         {
-            url: 'https://www.nagekar.com/2018/01/jagriti-yatra.html',
-            title: 'Need to be filled',
+            url: '',
+            title: 'Comming Soon',
         },
         {
-            url: 'https://www.nagekar.com/2017/08/private-cloud-part-2.html',
-            title: 'Need to be done',
+            url: '',
+            title: 'Comming soon',
         },
         {
-            url: 'https://www.nagekar.com/2018/07/eli5-how-https-works.html',
-            title: 'Need to be done',
+            url: '',
+            title: 'Comming soon',
         },
     ];
 
