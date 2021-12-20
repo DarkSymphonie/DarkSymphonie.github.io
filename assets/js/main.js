@@ -84,10 +84,7 @@ function blog_posts() {
 
         </div>
 
-        <div class="blog-goto-link">
-            <img class="blog-arrow" src="/assets/images/right-open-mini.svg"/>
-        </div>
-    </div>
+        
     `;
 
     post_html.push(post_template);
